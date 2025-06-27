@@ -1,0 +1,6 @@
+[{
+  "_id": "ObjectId('...')",
+  "name": "Jane Doe",
+  "email": "jane@example.com",
+  "password": "$2a$10$hashedpasswordhere"
+}]
